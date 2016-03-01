@@ -17,9 +17,9 @@ buildscript {
 
 apply plugin: 'forge'
 
-version = "v1.0"
-group= "com.biggestnerd.namescaling" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "[1.8]NameScaling"
+version = '1.0'
+group= 'com.biggestnerd.namescaling' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'NameScaling'
 
 minecraft {
     version = "1.8-11.14.1.1404"
